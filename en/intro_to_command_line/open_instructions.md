@@ -17,7 +17,8 @@ Later in this tutorial, you will need to have two command windows open at the sa
 
 <!--sec data-title="Opening: OS X" data-id="OSX_prompt" data-collapse=true ces-->
 
-Go to Applications → Utilities → Terminal.
+macOS Big Sur: Go to Launchpad → search "Terminal" → click on the icon.
+macOS Catalina: Go to Applications → Utilities → Terminal.
 
 <!--endsec-->
 
